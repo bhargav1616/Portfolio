@@ -20,7 +20,7 @@ export const Hero = () => {
 
             {/* How we Work */}
             <div class="second-sec-under">
-                <h3 class="second-section-title"><span><img src="src/assets/png/arrows.png" alt="Arrow"
+                <h3 class="second-section-title"><span><img src="png/arrows.png" alt="Arrow"
                     class="arrow-png" /></span> &nbsp; How We
                     Work</h3>
             </div>
@@ -56,7 +56,7 @@ export const Hero = () => {
             {/* How We Do */}
 
             <div class="second-sec-under">
-                <h3 class="second-section-title"><span><img src="src/assets/png/arrows.png" alt="Arrow"
+                <h3 class="second-section-title"><span><img src="png/arrows.png" alt="Arrow"
                     class="arrow-png" /></span> &nbsp; How We
                     Do</h3>
             </div>
@@ -69,7 +69,7 @@ export const Hero = () => {
                 </div>
 
                 <div className="how_we_do_card how_we_do_f">
-                    <img src="src/assets/png/diamond.png" alt="Diamond Icon" />
+                    <img src="png/diamond.png" alt="Diamond Icon" />
                     <h2>Define Goals and Requirements</h2>
                     <p>
                         At My Portfolio, we understand the purpose of the website, its target audience, and the specific goals it needs to achieve.
@@ -77,7 +77,7 @@ export const Hero = () => {
                 </div>
 
                 <div className="how_we_do_card how_we_do_s">
-                    <img src="src/assets/png/ball_pile.png" alt="Ball Pile Icon" />
+                    <img src="png/ball_pile.png" alt="Ball Pile Icon" />
                     <h2>Conduct Market Research & Analysis</h2>
                     <p>
                         Conduct market research to gather insights about the target audience, competitors, industry trends and Analysis.
@@ -89,28 +89,28 @@ export const Hero = () => {
             <div className="container how_we_do_cards">
                 <div>
                     <div className="how_we_do_t">
-                        <img src="src/assets/png/braces.png" alt="" />
+                        <img src="png/braces.png" alt="" />
                         <h2>User Experience (UX) Design</h2>
                         <p>Design a user-friendly experience with wireframes or prototypes.</p>
                     </div>
                 </div>
                 <div>
                     <div className="how_we_do_t">
-                        <img src="src/assets/png/tools.png" alt="" />
+                        <img src="png/tools.png" alt="" />
                         <h2>Testing and Optimization</h2>
                         <p>Test rigorously to find and resolve issues like broken links, browser compatibility, or usability glitches.</p>
                     </div>
                 </div>
                 <div>
                     <div className="how_we_do_t">
-                        <img src="src/assets/png/ufo_beam.png" alt="" />
+                        <img src="png/ufo_beam.png" alt="" />
                         <h2>Launch and Deployment</h2>
                         <p>Host the website, set up domain and hosting securely, and keep an eye on performance.</p>
                     </div>
                 </div>
                 <div>
                     <div className="how_we_do_t">
-                        <img src="src/assets/png/branding.png" alt="" />
+                        <img src="png/branding.png" alt="" />
                         <h2>Maintenance and Updates</h2>
                         <p>Keep the website fresh with new content, enhance its features, and fix any tech glitches.</p>
                     </div>
@@ -120,7 +120,7 @@ export const Hero = () => {
             {/* Project Button */}
 
             <div className="container">
-                <h3 class="my-project-title"><span><img src="src/assets/png/arrows.png" alt="Arrow"
+                <h3 class="my-project-title"><span><img src="png/arrows.png" alt="Arrow"
                     class="arrow-png" /></span> &nbsp; My Projects</h3>
             </div>
 

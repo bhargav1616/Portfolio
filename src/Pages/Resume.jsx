@@ -19,7 +19,7 @@ export const Resume = () => {
                         </div>
                     </div>
 
-                    <h3 class="second-section-title"><span><img src="src/assets/png/arrows.png" alt="Arrow" class="arrow-png" /></span>
+                    <h3 class="second-section-title"><span><img src="png/arrows.png" alt="Arrow" class="arrow-png" /></span>
                         &nbsp; Education</h3>
                     <div class="education-section">
 
