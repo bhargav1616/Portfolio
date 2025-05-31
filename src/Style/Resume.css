@@ -1,0 +1,172 @@
+:root {
+    --bg-color: #1d1c1c;
+    --color: #55E6A5;
+    --card-background: #0A1019;
+    --text-color: #ffffff;
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 1100px;
+    margin: 30px auto;
+}
+
+.resume {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.under-resume {
+    width: 50%;
+}
+
+.second-section-title {
+    color: var(--color);
+    text-align: center;
+}
+
+.resume-para1 {
+    color: var(--text-color);
+    /* padding: 15px 0; */
+    text-align: center;
+    font-size: 15px;
+}
+
+/* End Main Section  */
+
+/* Start Education Section  */
+
+.second-section-title {
+    margin-top: 50px !important;
+}
+
+.education-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.education-left-part-details {
+    padding: 30px;
+}
+
+.education-left-part {
+    width: 45%;
+    background-color: var(--card-background);
+}
+
+.education-right-part {
+    width: 45%;
+    background-color: var(--card-background);
+}
+
+.education-year {
+    color: var(--color);
+    font-size: 2rem;
+}
+
+.education-course {
+    color: var(--text-color);
+    padding: 8px 0;
+}
+
+.education-school {
+    color: gray;
+    font-size: 20px;
+    padding: 5px 0 20px 0;
+    text-transform: uppercase;
+}
+
+.education-grade {
+    color: gray;
+    font-size: 18px;
+}
+
+.cv-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.download-cv {
+    padding: 15px 20px;
+    text-transform: uppercase;
+    background-color: var(--color);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+/* End Education Section  */
+
+
+@media (max-width:1024px) {
+    .wrapper {
+        max-width: 900px;
+    }
+}
+
+@media (max-width:768px) {
+    .wrapper {
+        max-width: 700px;
+    }
+    .resume-para1{
+        text-align:justify;
+    }
+}
+
+@media (max-width:425px){
+    .resume{
+        width: 100%;
+    }
+    .under-resume{
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .resume-para1{
+        font-size: 20px;
+        width: 100%;
+        padding: 0 20px;
+    }
+    .education-section{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .education-left-part,.education-right-part{
+        width: 85%;
+        margin: 10px 0;
+    }
+}
+
+@media (max-width:375px){
+    .resume-para1{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:320px){
+    .resume-para1{
+        font-size: 13px;
+    }
+    .under-resume {
+        width: 80%;
+    }
+    .education-section {
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+    }
+    .education-left-part,.education-right-part{
+        width: 90%;
+    }
+    .education-right-part{
+        margin-top: 20px;
+    }
+}

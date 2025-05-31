@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "img": "Project_Img/react_one.PNG",
+        "title": "Nike Shoes",
+        "description": "A sleek web app showcasing the latest Nike shoe collections with detailed views and user reviews.",
+        "link": "https://nike-shoess.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 2,
+        "img": "Project_Img/contact-us.PNG",
+        "title": "Contact Us",
+        "description": "A responsive 'Contact Us' section allowing users to send messages or inquiries directly through the website.",
+        "link": "https://contacts-uss.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 3,
+        "img": "Project_Img/Todo.PNG",
+        "title": "TODO App",
+        "description": "A responsive React-based CRUD application that allows users to Create, Read, Update, and Delete.",
+        "link": "https://crud-opration-todo.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 4,
+        "img": "Project_Img/luxury-car.PNG",
+        "title": "Luxury Cars ShowRoom",
+        "description": "A modern luxury car showroom website showcasing premium vehicles with sleek design and interactive features.",
+        "link": "https://luxury-cars-showroomm.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 5,
+        "img": "Project_Img/cack-zone.jpeg",
+        "title": "Cack Zone",
+        "description": "All Types Cack available and home dilivery.Best qualitys Cake.Your choise cack order",
+        "link": "https://cack-zone.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 6,
+        "img": "Project_Img/nb-villa.PNG",
+        "title": "NB Villa House",
+        "description": "NB Villa House is a modern residential project offering luxury, comfort, and stylish architectural design throughout.",
+        "link": "https://villa-housee.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 7,
+        "img": "Project_Img/fruit-img.jpg",
+        "title": "Fruits Wala",
+        "description": "Fruits Wala website offers fresh fruits online with fast delivery and great quality.",
+        "link": "https://fruit-baazar.netlify.app",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 8,
+        "img": "Project_Img/covid.jpeg",
+        "title": "Covid",
+        "description": "The Covid Vaccine website provides reliable information, and updates on vaccination centers and availability.",
+        "link": "https://covid-19-vaccine.netlify.app",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 9,
+        "img": "Project_Img/vd-digital.jpeg",
+        "title": "VD Digital",
+        "description": "Marrige,Prewedding,Baby-Shower Etc. to Contact Us and provide all best Cameras.",
+        "link": "https://bhargav1616.github.io/VD-Digital/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 10,
+        "img": "Project_Img/coffee.jpeg",
+        "title": "Coffee Bar",
+        "description": "All Types Coffee available and home dilivery.Best qualitys Coffee. Your choise Coffee order",
+        "link": "https://coffee-baar.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 11,
+        "img": "Project_Img/vd-digital.jpeg",
+        "title": "Netflix Clone",
+        "description": "Online movie Plateform and download moviemwe-series and show.Web and app available.",
+        "link": "https://movie-hd-website.netlify.app/",
+        "projectName": "html_css_title.png"
+    }
+]

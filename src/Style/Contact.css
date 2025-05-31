@@ -1,0 +1,111 @@
+:root {
+    --bg-color: #1d1c1c;
+    --color: #55E6A5;
+    --card-background: #0A1019;
+    --text-color: #ffffff;
+}
+
+.back-font-resume {
+    color: #14171B;
+    font-size: 12vw; /* Scales with screen width */
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Add a fallback font */
+    line-height: 1;
+    margin: 0;
+}
+
+.top-font-resume {
+    color: var(--text-color);
+    text-align: center;
+    position: relative;
+    bottom: 8vw; /* Adjusts based on screen width */
+    font-size: 6vw; /* Scales with screen width */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+/* Optional fine-tuning for smaller screens */
+@media (max-width: 600px) {
+    .back-font-resume {
+        font-size: 16vw;
+    }
+
+    .top-font-resume {
+        font-size: 8vw;
+        bottom: 10vw;
+    }
+}
+
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    padding: 20px;
+}
+
+.contact-card {
+    flex: 1 1 200px; /* grow | shrink | base width */
+    max-width: 250px;
+    margin: 10px;
+}
+
+.contact_img {
+    background-color: #0A1019;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.contact-card p, .contact-card h3 {
+    margin-top: 15px;
+}
+
+/* Footer start */
+
+.footer-title,.find-me-on-icon{
+    color: var(--text-color);
+    text-align: center;
+}
+
+.q-click-here{
+    margin-top: 20px;
+    padding: 17px 35px;
+    border: none;
+    border-radius: 30px;
+    background-color: var(--color);
+}
+
+.q-click-here-a{
+    color: #02050A;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.find-me{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.find-me-on-icon{
+    margin: 10px 0;
+}
+
+.find-me-icon-control{
+    padding: 0 10px;
+    background-color: var(--card-background);
+}
+
+.copyright{
+    color: var(--text-color);
+    text-align: center;
+    margin-top: 60px;
+    word-spacing: 5px;
+}
