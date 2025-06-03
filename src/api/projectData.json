@@ -33,6 +33,14 @@
     },
     {
         "id": 5,
+        "img": "Project_Img/ReD-zz.PNG",
+        "title": "ReD-z",
+        "description": "Worldwide Sales, Sales %, and Total Revenue charts with data tables for clear business performance insights.",
+        "link": "https://red-z.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 6,
         "img": "Project_Img/cack-zone.jpeg",
         "title": "Cack Zone",
         "description": "All Types Cack available and home dilivery.Best qualitys Cake.Your choise cack order",
@@ -40,7 +48,7 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "img": "Project_Img/nb-villa.PNG",
         "title": "NB Villa House",
         "description": "NB Villa House is a modern residential project offering luxury, comfort, and stylish architectural design throughout.",
@@ -48,7 +56,7 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 7,
+        "id": 8,
         "img": "Project_Img/fruit-img.jpg",
         "title": "Fruits Wala",
         "description": "Fruits Wala website offers fresh fruits online with fast delivery and great quality.",
@@ -56,7 +64,7 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 8,
+        "id": 9,
         "img": "Project_Img/covid.jpeg",
         "title": "Covid",
         "description": "The Covid Vaccine website provides reliable information, and updates on vaccination centers and availability.",
@@ -64,7 +72,7 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 9,
+        "id": 10,
         "img": "Project_Img/vd-digital.jpeg",
         "title": "VD Digital",
         "description": "Marrige,Prewedding,Baby-Shower Etc. to Contact Us and provide all best Cameras.",
@@ -72,7 +80,7 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 10,
+        "id": 11,
         "img": "Project_Img/coffee.jpeg",
         "title": "Coffee Bar",
         "description": "All Types Coffee available and home dilivery.Best qualitys Coffee. Your choise Coffee order",
@@ -80,7 +88,7 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 11,
+        "id": 12,
         "img": "Project_Img/vd-digital.jpeg",
         "title": "Netflix Clone",
         "description": "Online movie Plateform and download moviemwe-series and show.Web and app available.",
