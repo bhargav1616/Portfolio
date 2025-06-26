@@ -73,14 +73,6 @@
     },
     {
         "id": 10,
-        "img": "Project_Img/vd-digital.jpeg",
-        "title": "VD Digital",
-        "description": "Marrige,Prewedding,Baby-Shower Etc. to Contact Us and provide all best Cameras.",
-        "link": "https://bhargav1616.github.io/VD-Digital/",
-        "projectName": "html_css_title.png"
-    },
-    {
-        "id": 11,
         "img": "Project_Img/coffee.jpeg",
         "title": "Coffee Bar",
         "description": "All Types Coffee available and home dilivery.Best qualitys Coffee. Your choise Coffee order",
@@ -88,11 +80,11 @@
         "projectName": "html_css_title.png"
     },
     {
-        "id": 12,
+        "id": 11,
         "img": "Project_Img/netflix.jpeg",
         "title": "Netflix Clone",
         "description": "Online movie Plateform and download moviemwe-series and show.Web and app available.",
-        "link": "https://movie-hd-website.netlify.app/",
+        "link": "https://netfix-movie.netlify.app/",
         "projectName": "html_css_title.png"
     }
 ]
