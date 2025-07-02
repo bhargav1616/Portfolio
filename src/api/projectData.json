@@ -8,6 +8,22 @@
         "projectName": "react_title.png"
     },
     {
+        "id": 13,
+        "img": "Project_Img/flipkart.jpeg",
+        "title": "Flipkart Clone",
+        "description": "Flipkart clone with product listing, cart, checkout, user authentication, and responsive design for ecommerce practice.",
+        "link": "https://flipkarrtt-clone.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 12,
+        "img": "Project_Img/react_one.PNG",
+        "title": "Weather App",
+        "description": "A sleek web app showcasing the latest Nike shoe collections with detailed views and user reviews.",
+        "link": "https://nike-shoess.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
         "id": 2,
         "img": "Project_Img/contact-us.PNG",
         "title": "Contact Us",
