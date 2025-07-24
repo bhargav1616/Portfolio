@@ -17,7 +17,7 @@
     },
     {
         "id": 12,
-        "img": "Project_Img/react_one.PNG",
+        "img": "Project_Img/WeatherApp.jpeg",
         "title": "Weather App",
         "description": "A sleek web app showcasing the latest Nike shoe collections with detailed views and user reviews.",
         "link": "https://nike-shoess.netlify.app/",
