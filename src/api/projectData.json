@@ -16,6 +16,14 @@
         "projectName": "react_title.png"
     },
     {
+        "id": 14,
+        "img": "Project_Img/swiggy.PNG",
+        "title": "Swiggy Clone",
+        "description": "A modern food delivery web app inspired by Swiggy, cart system, restaurant listings, and responsive UI for smooth ordering.",
+        "link": "https://nike-shoess.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
         "id": 12,
         "img": "Project_Img/WeatherApp.jpeg",
         "title": "Weather App",
