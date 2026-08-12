@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "img": "Project_Img/react_one.PNG",
+        "title": "Nike Shoes",
+        "description": "A sleek web app showcasing the latest Nike shoe collections with detailed views and user reviews.",
+        "link": "https://nike-shoess.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 13,
+        "img": "Project_Img/flipkart.jpeg",
+        "title": "Flipkart Clone",
+        "description": "Flipkart clone with product listing, cart, checkout, user authentication, and responsive design for ecommerce practice.",
+        "link": "https://flipkarrtt-clone.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 14,
+        "img": "Project_Img/swiggy.PNG",
+        "title": "Swiggy Clone",
+        "description": "A modern food delivery web app inspired by Swiggy, cart system, restaurant listings, and responsive UI for smooth ordering.",
+        "link": "https://swiggyy-clone.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 12,
+        "img": "Project_Img/WeatherApp.jpeg",
+        "title": "Weather App",
+        "description": "A sleek web app showcasing the latest Nike shoe collections with detailed views and user reviews.",
+        "link": "https://nike-shoess.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 2,
+        "img": "Project_Img/contact-us.PNG",
+        "title": "Contact Us",
+        "description": "A responsive 'Contact Us' section allowing users to send messages or inquiries directly through the website.",
+        "link": "https://contacts-uss.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 3,
+        "img": "Project_Img/Todo.PNG",
+        "title": "TODO App",
+        "description": "A responsive React-based CRUD application that allows users to Create, Read, Update, and Delete.",
+        "link": "https://crud-opration-todo.netlify.app/",
+        "projectName": "react_title.png"
+    },
+    {
+        "id": 4,
+        "img": "Project_Img/luxury-car.PNG",
+        "title": "Luxury Cars ShowRoom",
+        "description": "A modern luxury car showroom website showcasing premium vehicles with sleek design and interactive features.",
+        "link": "https://luxury-cars-showroomm.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 5,
+        "img": "Project_Img/ReD-zz.PNG",
+        "title": "ReD-z",
+        "description": "Worldwide Sales, Sales %, and Total Revenue charts with data tables for clear business performance insights.",
+        "link": "https://red-z.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 6,
+        "img": "Project_Img/cack-zone.jpeg",
+        "title": "Cack Zone",
+        "description": "All Types Cack available and home dilivery.Best qualitys Cake.Your choise cack order",
+        "link": "https://cack-zone.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 7,
+        "img": "Project_Img/nb-villa.PNG",
+        "title": "NB Villa House",
+        "description": "NB Villa House is a modern residential project offering luxury, comfort, and stylish architectural design throughout.",
+        "link": "https://villa-housee.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 8,
+        "img": "Project_Img/fruit-img.jpg",
+        "title": "Fruits Wala",
+        "description": "Fruits Wala website offers fresh fruits online with fast delivery and great quality.",
+        "link": "https://fruit-baazar.netlify.app",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 9,
+        "img": "Project_Img/covid.jpeg",
+        "title": "Covid",
+        "description": "The Covid Vaccine website provides reliable information, and updates on vaccination centers and availability.",
+        "link": "https://covid-19-vaccine.netlify.app",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 10,
+        "img": "Project_Img/coffee.jpeg",
+        "title": "Coffee Bar",
+        "description": "All Types Coffee available and home dilivery.Best qualitys Coffee. Your choise Coffee order",
+        "link": "https://coffee-baar.netlify.app/",
+        "projectName": "html_css_title.png"
+    },
+    {
+        "id": 11,
+        "img": "Project_Img/netflix.jpeg",
+        "title": "Netflix Clone",
+        "description": "Online movie Plateform and download moviemwe-series and show.Web and app available.",
+        "link": "https://netfix-movie.netlify.app/",
+        "projectName": "html_css_title.png"
+    }
+]

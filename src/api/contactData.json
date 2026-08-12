@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "img": "home.png",
+        "title": "ADDRESS",
+        "MyId": "Ahmedabad, India",
+        "link": "https://maps.app.goo.gl/nq8bgbNb5m7pwrJK6"
+    },
+    {
+        "id": 2,
+        "img": "telephone.png",
+        "title": "CONTACT NUMBER",
+        "MyId": "91+ 94282 11480",
+        "link": "tel:+91 9428211480"
+    },
+    {
+        "id": 3,
+        "img": "email.png",
+        "title": "EMAIL ADDRESS",
+        "MyId": "bhargavjadav2004@...",
+        "link": "mailto: bhargvajadav2004@gmail.com?subject=Hello&body=I%20would%20like%20to%20talk%20to%20you."
+    },
+    {
+        "id": 4,
+        "img": "downloading.png",
+        "title": "RESUME",
+        "MyId": "DOWNLOAD",
+        "link": "BHARGAV_JADAV.pdf"
+    }
+]

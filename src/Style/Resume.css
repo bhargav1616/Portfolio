@@ -1,0 +1,21 @@
+.resume-summary { display:grid; grid-template-columns:1fr 1fr; gap:70px; padding:28px 0 90px; border-top:1px solid var(--line); }
+.resume-summary h2 { font:800 clamp(28px,3.5vw,44px)/1.12 "Manrope"; letter-spacing:-.04em; margin-top:10px; }
+.resume-summary p { color:var(--muted); padding-top:24px; }
+.timeline-section { padding:70px 0; border-top:1px solid var(--line); }
+.timeline-heading { display:flex; align-items:center; gap:12px; margin-bottom:35px; }
+.timeline-heading > span { width:42px; height:42px; display:grid; place-items:center; color:var(--accent); border:1px solid rgba(98,230,164,.25); border-radius:12px; }
+.timeline-heading h2 { font:800 30px "Manrope"; }
+.timeline { position:relative; display:grid; gap:0; margin-left:21px; border-left:1px solid var(--line); }
+.timeline-item { position:relative; display:grid; grid-template-columns:150px 1fr; gap:35px; padding:0 0 42px 35px; }
+.timeline-item:last-child { padding-bottom:0; }
+.timeline-dot { position:absolute; left:-5px; top:5px; width:9px; height:9px; border-radius:50%; background:var(--accent); box-shadow:0 0 0 6px rgba(98,230,164,.07); }
+.timeline-meta { color:var(--accent); font-size:12px; font-weight:800; letter-spacing:.05em; }
+.timeline-item h3 { font:700 20px "Manrope"; }
+.timeline-item strong { display:block; color:#c0c7cf; font-size:13px; margin:4px 0 8px; }
+.timeline-item p { color:var(--muted); font-size:13px; max-width:650px; }
+.resume-download { padding-top:30px; display:flex; justify-content:center; }
+@media(max-width:700px) {
+  .resume-summary { grid-template-columns:1fr; gap:15px; padding-bottom:60px; }
+  .timeline-item { grid-template-columns:1fr; gap:5px; padding-left:25px; }
+  .timeline { margin-left:12px; }
+}
